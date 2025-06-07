@@ -1,5 +1,3 @@
-import { VariantsAnimations2 } from "@/animations/variants/variants2";
-
 export default function Home() {
   return (
     <div>
@@ -7,7 +5,8 @@ export default function Home() {
       {/* <TransitionsAnimations /> */}
       {/* <KeyframesAnimations /> */}
       {/* <VariantsAnimations /> */}
-      <VariantsAnimations2 />
+      {/* <VariantsAnimations2 /> */}
+      {/* <GesturesAnimations /> */}
     </div>
   );
 }
