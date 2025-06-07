@@ -1,3 +1,5 @@
+import { StaggerAnimations2 } from "@/animations/stagger/stagger2";
+
 export default function Home() {
   return (
     <div>
@@ -7,6 +9,8 @@ export default function Home() {
       {/* <VariantsAnimations /> */}
       {/* <VariantsAnimations2 /> */}
       {/* <GesturesAnimations /> */}
+      {/* <StaggerAnimations /> */}
+      <StaggerAnimations2 />
     </div>
   );
 }
