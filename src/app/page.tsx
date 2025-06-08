@@ -11,6 +11,7 @@ export default function Home() {
       {/* <StaggerAnimations2 /> */}
       {/* <UseMotionValueAnimations2 /> */}
       {/* <UseTransformAnimations /> */}
+      {/* <WhileInViewAnimations /> */}
     </div>
   );
 }
