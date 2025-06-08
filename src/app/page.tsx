@@ -10,6 +10,7 @@ export default function Home() {
       {/* <StaggerAnimations /> */}
       {/* <StaggerAnimations2 /> */}
       {/* <UseMotionValueAnimations2 /> */}
+      {/* <UseTransformAnimations /> */}
     </div>
   );
 }
