@@ -12,6 +12,7 @@ export default function Home() {
       {/* <UseMotionValueAnimations2 /> */}
       {/* <UseTransformAnimations /> */}
       {/* <WhileInViewAnimations /> */}
+      {/* <UseScrollAnimations /> */}
     </div>
   );
 }
