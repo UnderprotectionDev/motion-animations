@@ -1,6 +1,6 @@
 # Animations with Motion
 
-A collection of animation examples using Framer Motion in Next.js, showcasing various animation techniques and hooks.
+A collection of animation examples using Motion in Next.js, showcasing various animation techniques and hooks.
 
 ## 🎯 Features
 
